@@ -1,0 +1,4 @@
+preprocessing
+compilation
+assembly
+linking
