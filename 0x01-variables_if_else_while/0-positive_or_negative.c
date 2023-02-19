@@ -4,7 +4,7 @@
 /**
  *  main - print arandom number
  *
- *  return: 0
+ *  Return: always zero
  */
 int main(void)
 {
